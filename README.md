@@ -1,0 +1,1 @@
+ digunakan untuk mengamankan informasi dengan cara mengubah data yang dapat dibaca menjadi format yang tidak dapat dibaca, serta memastikan bahwa informasi yang dikirimkan atau disimpan tetap aman dan hanya dapat diakses oleh pihak yang berwenang.
